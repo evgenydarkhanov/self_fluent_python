@@ -1,4 +1,4 @@
-## Fluent Python, 2nd Edition
+# Fluent Python, 2nd Edition
 
 by Luciano Ramalho, [link](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/)
 
