@@ -1,0 +1,8 @@
+sys.version = '3.9.5 (default, Nov 23 2021, 15:27:38) \n[GCC 9.3.0]'
+
+sys.stdout.isatty() = False
+sys.stdout.encoding = 'utf-8'
+
+trying to output HORIZONTAL ELLIPSIS: …
+trying to output INFINITY: ∞
+trying to output CIRCLED NUMBER FORTY TWO: ㊷
